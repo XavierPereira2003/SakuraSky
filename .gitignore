@@ -164,3 +164,4 @@ cython_debug/
 
 secrets_1.py
 *.csv
+.env
